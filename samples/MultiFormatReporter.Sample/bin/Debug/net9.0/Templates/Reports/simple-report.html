@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+    <p>Merhaba {{ name }}!</p>
+    <p>Bu basit bir PDF rapor örneğidir.</p>
+    <h2>Liste:</h2>
+    <ul>
+    {{ for item in items }}
+        <li>{{ item }}</li>
+    {{ end }}
+    </ul>
+</body>
+</html>

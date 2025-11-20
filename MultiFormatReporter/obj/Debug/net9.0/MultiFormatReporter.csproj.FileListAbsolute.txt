@@ -1,0 +1,12 @@
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/bin/Debug/net9.0/MultiFormatReporter.deps.json
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/bin/Debug/net9.0/MultiFormatReporter.dll
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/bin/Debug/net9.0/MultiFormatReporter.pdb
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/MultiFormatReporter.csproj.AssemblyReference.cache
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/MultiFormatReporter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/MultiFormatReporter.AssemblyInfoInputs.cache
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/MultiFormatReporter.AssemblyInfo.cs
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/MultiFormatReporter.csproj.CoreCompileInputs.cache
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/MultiFormatReporter.dll
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/refint/MultiFormatReporter.dll
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/MultiFormatReporter.pdb
+/Users/sevgitipioglu/Desktop/untitled folder/multi-format-reporter/MultiFormatReporter/obj/Debug/net9.0/ref/MultiFormatReporter.dll
