@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            padding: 12px;
+            text-align: left;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .summary {
+            background-color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+    <div class='summary'>
+        <p><strong>Rapor Tarihi:</strong> {{ report_date }}</p>
+        <p><strong>Hazırlayan:</strong> {{ prepared_by }}</p>
+    </div>
+    <h2>Ürün Listesi</h2>
+    <table>
+        <tr>
+            <th>Ürün</th>
+            <th>Kategori</th>
+            <th>Fiyat</th>
+        </tr>
+        {{ for product in products }}
+        <tr>
+            <td>{{ product.name }}</td>
+            <td>{{ product.category }}</td>
+            <td>{{ product.price }} TL</td>
+        </tr>
+        {{ end }}
+    </table>
+</body>
+</html>
